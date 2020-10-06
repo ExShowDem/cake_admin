@@ -1,0 +1,7 @@
+
+Page #, env.php
+		'web' => array(
+			'url_host' => 'http://localhost/acx/',
+            'url_img' => 'http://localhost/acx/img/',
+            'limit_record' => 5
+ 		),

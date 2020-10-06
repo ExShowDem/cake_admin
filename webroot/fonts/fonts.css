@@ -1,0 +1,19 @@
+  @font-face {
+    font-family: 'dinpro-reg';
+    src: url(dinpro/DINPro-Regular.ttf) format('truetype');
+  }
+
+  @font-face {
+    font-family: 'dinpro-bold';
+    src: url(dinpro/DINPro-Bold.ttf) format('truetype');
+  }
+
+  @font-face {
+    font-family: 'dinpro-light';
+    src: url(dinpro/DINPro-Light.ttf) format('truetype');
+  }
+
+  @font-face {
+    font-family: 'dinpro-med';
+    src: url(dinpro/DINPro-Medium.ttf) format('truetype');
+  }
